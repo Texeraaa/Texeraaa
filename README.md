@@ -6,20 +6,20 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=texeraaa&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-### Top repositórios // Top repositories:
+### Top repositories:
 
 <a href="https://github.com/Texeraaa/Project-F.web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=texeraaa&repo=Project-F.web&theme=midnight-purple" />
 </a>
 
-### Minhas Linguagens // My Languages:
+### My Languages:
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-### Banco de dados // DataBases:
+### DataBases:
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
