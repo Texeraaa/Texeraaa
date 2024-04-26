@@ -11,6 +11,9 @@
 <a href="https://github.com/Texeraaa/Project-F.web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=texeraaa&repo=Project-F.web&theme=midnight-purple" />
 </a>
+<a href="https://github.com/Texeraaa/Nest-CRUD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=texeraaa&repo=Nest-CRUD&theme=midnight-purple" />
+</a>
 
 ### My Languages:
 <div style="display: inline_block">
